@@ -1,0 +1,67 @@
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+** (terminator:464): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-ADbQwsgbEz: Connection refused
+<window.Window object at 0x7f0ad41baaa0 (terminatorlib+window+Window at 0x565336636290)> is not in registered window list
+
+** (terminator:560): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-ADbQwsgbEz: Connection refused
+
+** (terminator:612): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-ADbQwsgbEz: Connection refused
+
+** (terminator:612): WARNING **: Binding '<Control><Alt>a' failed!
+Unable to bind hide_window key, another instance/window has it.
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3lock: unrecognized option '--no-startup-id'
+i3lock: Syntax: i3lock [-v] [-n] [-b] [-d] [-c color] [-u] [-p win|default] [-i image.png] [-t] [-e] [-I timeout] [-f]
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+[703:703:0821/222731.333904:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+(terminator:612): Gtk-WARNING **: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/bullet-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+
+** (terminator:14583): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-ADbQwsgbEz: Connection refused
+
+(terminator:14583): Gtk-WARNING **: Could not load a pixbuf from /org/gtk/libgtk/theme/Adwaita/assets/check-symbolic.svg.
+This may indicate that pixbuf loaders or the mime database could not be found.
+
+** (terminator:14714): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-ADbQwsgbEz: Connection refused
+Exiting due to signal.
+i3status: error while loading shared libraries: libconfuse.so.1: cannot open shared object file: No such file or directory
+[../../i3-4.13/i3bar/src/child.c:339] ERROR: stdin: received EOF
+[../../i3-4.13/i3bar/src/child.c:462] ERROR: Child (pid: 14790) unexpectedly exited with status 127
+i3status: error while loading shared libraries: libconfuse.so.1: cannot open shared object file: No such file or directory
+[../../i3-4.13/i3bar/src/child.c:339] ERROR: stdin: received EOF
+[../../i3-4.13/i3bar/src/child.c:462] ERROR: Child (pid: 14794) unexpectedly exited with status 127
+i3status: error while loading shared libraries: libconfuse.so.1: cannot open shared object file: No such file or directory
+[../../i3-4.13/i3bar/src/child.c:339] ERROR: stdin: received EOF
+[../../i3-4.13/i3bar/src/child.c:462] ERROR: Child (pid: 14844) unexpectedly exited with status 127
+Gdk-Message: terminator: Fatal IO error 0 (Success) on X server :0.
+

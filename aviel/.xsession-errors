@@ -1,0 +1,33 @@
+i3status: error while loading shared libraries: libconfuse.so.1: cannot open shared object file: No such file or directory
+[../../i3-4.13/i3bar/src/child.c:339] ERROR: stdin: received EOF
+[../../i3-4.13/i3bar/src/child.c:462] ERROR: Child (pid: 14953) unexpectedly exited with status 127
+
+** (terminator:14955): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-DtQHr4RTMF: Connection refused
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+** (terminator:15591): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-DtQHr4RTMF: Connection refused
+
+** (terminator:15591): WARNING **: Binding '<Control><Alt>a' failed!
+Unable to bind hide_window key, another instance/window has it.
+<window.Window object at 0x7f94880fbb90 (terminatorlib+window+Window at 0x563d426ea290)> is not in registered window list
+[15633:15633:0821/234420.447499:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[79:79:0821/234529.882390:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[79:79:0821/234542.246689:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[79:79:0821/234547.543934:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[79:79:0821/234553.782954:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[79:79:0821/234559.115006:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[79:79:0821/234617.906388:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[79:79:0821/234618.286521:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[79:79:0821/234618.816850:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[79:79:0821/234619.054821:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[79:79:0821/234627.806663:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[151:151:0821/234726.111320:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[217:217:0821/234820.896524:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[217:217:0821/234836.910453:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[217:217:0821/234900.686670:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+
+** (terminator:16467): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-DtQHr4RTMF: Connection refused
+
+** (terminator:16467): WARNING **: Binding '<Control><Alt>a' failed!
+Unable to bind hide_window key, another instance/window has it.

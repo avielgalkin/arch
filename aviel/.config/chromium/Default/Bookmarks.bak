@@ -1,0 +1,39 @@
+{
+   "checksum": "a80b84db36a8de5210600724a5c32e6f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13147738185013610",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13147738185014853"
+            },
+            "name": "Terminator - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/Terminator"
+         } ],
+         "date_added": "13147736337410411",
+         "date_modified": "13147738185013610",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13147736337410419",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13147736337410420",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

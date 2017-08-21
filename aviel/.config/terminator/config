@@ -1,0 +1,31 @@
+[global_config]
+  borderless = True
+  dbus = False
+  extra_styling = False
+  focus = mouse
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      profile = default
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_darkness = 0.61
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    foreground_color = "#ffffff"
+    scrollbar_position = hidden
+    show_titlebar = False
+    disable_real_transparency = "True"
+  [[New Profile]]
+    background_darkness = 0.62
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    scrollbar_position = hidden
+    show_titlebar = False
